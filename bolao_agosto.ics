@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bantubet//Bolao//PT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:bolao-rodada-10@bantubet.com
+SUMMARY:Bolao Rodada 10
+DTSTART:20260805T183000
+DTEND:20260805T193000
+DESCRIPTION:Faz ja as tuas previsoes antes que a rodada comece!\n\n1. Benfica x Porto\n2. Real Madrid x Barcelona\n3. Man United x Liverpool\n4. PSG x Marseille\n5. Juventus x Milan\n6. Bayern x Dortmund\n\nPreve aqui: https://bantubet.com/bolao
+BEGIN:VALARM
+TRIGGER:-P1D
+DESCRIPTION:Falta 1 dia! Nao te esquecas de fazer as tuas previsoes no Bolao.
+ACTION:DISPLAY
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+DESCRIPTION:Faltam 2 horas! A rodada do Bolao esta quase a comecar.
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bolao-rodada-11@bantubet.com
+SUMMARY:Bolao Rodada 11
+DTSTART:20260808T150000
+DTEND:20260808T160000
+DESCRIPTION:Faz ja as tuas previsoes antes que a rodada comece!\n\n1. Sporting x Braga\n2. Atletico Madrid x Sevilla\n3. Arsenal x Chelsea\n4. Lyon x Monaco\n5. Napoli x Roma\n6. Leverkusen x Leipzig\n\nPreve aqui: https://bantubet.com/bolao
+BEGIN:VALARM
+TRIGGER:-P1D
+DESCRIPTION:Falta 1 dia! Nao te esquecas de fazer as tuas previsoes no Bolao.
+ACTION:DISPLAY
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+DESCRIPTION:Faltam 2 horas! A rodada do Bolao esta quase a comecar.
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bolao-rodada-12@bantubet.com
+SUMMARY:Bolao Rodada 12
+DTSTART:20260812T183000
+DTEND:20260812T193000
+DESCRIPTION:Faz ja as tuas previsoes antes que a rodada comece!\n\n1. Benfica x Sporting\n2. Real Sociedad x Valencia\n3. Tottenham x Newcastle\n4. Nice x Lille\n5. Inter x Fiorentina\n6. Union Berlin x Stuttgart\n\nPreve aqui: https://bantubet.com/bolao
+BEGIN:VALARM
+TRIGGER:-P1D
+DESCRIPTION:Falta 1 dia! Nao te esquecas de fazer as tuas previsoes no Bolao.
+ACTION:DISPLAY
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+DESCRIPTION:Faltam 2 horas! A rodada do Bolao esta quase a comecar.
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bolao-rodada-13@bantubet.com
+SUMMARY:Bolao Rodada 13
+DTSTART:20260815T150000
+DTEND:20260815T160000
+DESCRIPTION:Faz ja as tuas previsoes antes que a rodada comece!\n\n1. Porto x Braga\n2. Real Madrid x Villarreal\n3. Man City x Aston Villa\n4. Rennes x Nantes\n5. Milan x Torino\n6. Frankfurt x Wolfsburg\n\nPreve aqui: https://bantubet.com/bolao
+BEGIN:VALARM
+TRIGGER:-P1D
+DESCRIPTION:Falta 1 dia! Nao te esquecas de fazer as tuas previsoes no Bolao.
+ACTION:DISPLAY
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+DESCRIPTION:Faltam 2 horas! A rodada do Bolao esta quase a comecar.
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bolao-rodada-14@bantubet.com
+SUMMARY:Bolao Rodada 14
+DTSTART:20260819T183000
+DTEND:20260819T193000
+DESCRIPTION:Faz ja as tuas previsoes antes que a rodada comece!\n\n1. Sporting x Boavista\n2. Barcelona x Girona\n3. Liverpool x Everton\n4. PSG x Lens\n5. Roma x Bologna\n6. Dortmund x Freiburg\n\nPreve aqui: https://bantubet.com/bolao
+BEGIN:VALARM
+TRIGGER:-P1D
+DESCRIPTION:Falta 1 dia! Nao te esquecas de fazer as tuas previsoes no Bolao.
+ACTION:DISPLAY
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+DESCRIPTION:Faltam 2 horas! A rodada do Bolao esta quase a comecar.
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
